@@ -1,3 +1,11 @@
+# 5070ti対応版
+
+sm120のため、色々面倒くさい.
+
+`pip install -r requirements_new.txt`
+
+また、コメントアウトされているものは指示通りにDL
+
 # Ultimate Vocal Remover GUI v5.6
 <img src="https://raw.githubusercontent.com/Anjok07/ultimatevocalremovergui/master/gui_data/img/UVR_v5.6.png?raw=true" />
 
